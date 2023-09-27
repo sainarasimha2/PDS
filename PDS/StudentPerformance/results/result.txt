@@ -1,0 +1,5 @@
+1.In gender distribution the female count is high.
+2. Median for Group E students is higher than the other group students
+3. Math and Reading score have a positive correlation
+4. Students who have not completed the preparation course are higher in number
+5. More than 120 students scored >60.
